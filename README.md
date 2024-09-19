@@ -36,7 +36,6 @@ The above screenshots show how the website looks on both mobile and desktop scre
 ### Links
 
 - Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/results-summary-component-using-sass-bem-and-flexbox-L0u9dd7D4_)
-- Live Site URL: [Netlify](https://bk-results-summary-component.netlify.app/)
 
 ## My process
 
@@ -49,9 +48,3 @@ The above screenshots show how the website looks on both mobile and desktop scre
 - Mobile-first workflow
 - SASS
 - BEM
-
-## Author
-
-- Github - [BK Pecho](https://www.github.com/bkpecho)
-- Frontend Mentor - [@bkpecho](https://www.frontendmentor.io/profile/bkpecho)
-- Twitter - [@bkpecho](https://www.twitter.com/bkpecho)
